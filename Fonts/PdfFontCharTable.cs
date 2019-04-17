@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Mycelo.Pdf.Fonts
+namespace PdfBuilder.Fonts
 {
     public static class PdfFontCharTable
     {
